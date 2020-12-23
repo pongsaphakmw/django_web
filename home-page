@@ -1,0 +1,12 @@
+{% extends 'school/base.html' %}
+
+
+{% block content %}
+
+<div class="container">
+  <h1>สวัสดีจ้า</h1>
+  <p>ยินดีต้อนรับเข้าสู่เว็บไซต์ของเรา</p>
+  <p>Welcome to home page</p>
+</div>
+
+{% endblock content %}
